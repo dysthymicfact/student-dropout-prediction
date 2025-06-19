@@ -94,7 +94,7 @@ Sistem prediksi status mahasiswa telah dibuat menggunakan model Random Forest Cl
    git clone https://github.com/dysthymicfact/student-dropout-prediction.git
    cd student_dropout_prediction
 
-2. Persiapan file
+2. Persiapan file\
    Pastikan file berikut ada di direktori proyek:
    - app.py: kode aplikasi streamlit
    - dropout_model_rf_final.joblib: model random forest yang telah dilatih
