@@ -104,7 +104,7 @@ Sistem prediksi status mahasiswa telah dibuat menggunakan model Random Forest Cl
    ```bash
    streamlit run app.py
   Aplikasi akan berjalan secara lokal dan otomatis terbuka di browser pada alamat `http://localhost:8501`.
-  Atau juga bisa diakses secara online melalui [klik disini]()
+  Atau juga bisa diakses secara online melalui [klik disini](https://student-dropout-monitoring.streamlit.app/)
 
 ### Cara Menggunakan Sistem Machine Learning
 1. Masukkan Infromasi Mahasiswa
